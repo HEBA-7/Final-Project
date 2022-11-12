@@ -40,10 +40,15 @@ The dashboard of "Happy Tool" offers you an analytical report with data about:
 
 
 ### :wrench: **Configuration**
+
 import pandas as pd
+
 import numpy as np
+
 import functools as ft
+
 import seaborn as sns
+
 import matplotlib.pylab as plt
 
 ### :see_no_evil: **Usage**
