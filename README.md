@@ -8,8 +8,10 @@
 
 This model data has 3 dataset:
     1. Happiness rank by country (2015- 2019)
+    
     2. Suicide rate by country (every 100000 population)
-    3. Daylight by country (in some countries I calculate de avg- for xa
+    
+    3. Daylight by country (in some countries I calculate de avg- for the different timetable)
 
    ![Image](emoticon-cara-sonriente-graffiti-rociado-aislado-sobre-fondo-blanco-ilustracion-vectorial_36380-425.webp)
 
@@ -17,8 +19,11 @@ This model data has 3 dataset:
 
 ### :computer: **Technology stack**
 - Pandas
+
 - Python
+
 - Jupyter
+
 - Tableau
 
 ### :boom: **Core technical concepts and inspiration**
