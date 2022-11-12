@@ -44,7 +44,7 @@ import matplotlib.pylab as plt
 
 The Dashboard is interactive, so depending on the window you are you can filter by country, year, gender etc...
 
-![Dashboard](https://public.tableau.com/app/profile/halima8505/viz/HappyToolPresentation/HappyTool?publish=yes)
+[Dashboard](https://public.tableau.com/app/profile/halima8505/viz/HappyToolPresentation/HappyTool?publish=yes)
 
 
 
