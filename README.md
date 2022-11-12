@@ -76,7 +76,7 @@ The Dashboard is interactive, so depending on the window you are you can filter 
 ``` 
 
 ### :information_source: **Further info**
-- ![Happiness scored by country](https://www.kaggle.com/datasets/unsdsn/world-happiness)
-- ![Suicide rate](https://www.who.int/data/gho/data/themes/mental-health/suicide-rates)
-- ![Horas de luz](https://www.kaggle.com/datasets/prasertk/sunshine-duration-by-city?resource=download)
+- [Happiness scored by country](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+- [Suicide rate](https://www.who.int/data/gho/data/themes/mental-health/suicide-rates)
+- [Horas de luz](https://www.kaggle.com/datasets/prasertk/sunshine-duration-by-city?resource=download)
 
